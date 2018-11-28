@@ -3,7 +3,7 @@ title: 羊肉荞麦面
 SEOTitle: 羊肉荞麦面的博客
 header-img: img/post-bg-desk.jpg
 #email: 
-description: 羊肉荞麦面的博客
+description: "羊肉荞麦面的博客"
 keyword: "羊肉荞麦面, blog, 科技, 羊肉, 日语, 生活, 摄影"
 url: "https://lamb.cf"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
