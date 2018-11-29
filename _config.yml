@@ -1,7 +1,7 @@
 # Site settings
 title: 羊肉荞麦面
 SEOTitle: 羊肉荞麦面的博客
-header-img: img/post-bg-desk.jpg
+header-img: img/index.jpg
 #email: 
 description: "羊肉荞麦面的博客"
 keyword: "羊肉荞麦面, blog, 科技, 羊肉, 日语, 生活, 摄影"
@@ -12,7 +12,7 @@ baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: 「凛として旅立つ 一朶の雲を目指し」
-sidebar-avatar: /img/about-BY-gentle.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: /img/avatar.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 #encoding: UTF-8
 
